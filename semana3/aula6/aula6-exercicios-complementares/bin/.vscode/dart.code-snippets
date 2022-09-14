@@ -1,0 +1,9 @@
+{
+  "Read line sync": {
+    "scope": "dart",
+    "description": "Criar nosso comando de readLine",
+    "body": "stdin.readLineSync(encoding: utf8)!;",
+    "prefix": "rls"
+    
+  }
+}
